@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Home Plant Monitoring System - About</title>
+    <style>
+        /* Basic styles for demonstration purposes */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #96d87a;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .about-content {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin-top: 20px;
+            background-color: #f9f9f9;
+        }
+
+        button {
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #555;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Welcome to Home Plant Monitoring System</h1>
+    </div>
+
+    <div class="container">
+        <button id="aboutBtn">About</button>
+        <div id="aboutContent" class="about-content" style="display: none;">
+            <h2>About Home Plant Monitoring System</h2>
+            <p>
+                The Home Plant Monitoring System is a comprehensive solution designed to provide users with the necessary tools to ensure optimal health and conditions for their indoor plants. It aims to empower users with real-time data and actionable insights for effective plant care.
+
+                <strong>Key Features:</strong>
+                <ul>
+                    <li>Real-time monitoring of crucial plant parameters: temperature, humidity, light exposure, and soil moisture.</li>
+                    <li>Automated alerts and notifications for watering schedules, light adjustments, and other plant care requirements.</li>
+                    <li>User-friendly interface: Accessible from multiple devices, including web and mobile applications, allowing users to monitor their plants anytime, anywhere.</li>
+                    <li>Customizable settings: Users can set personalized thresholds for environmental conditions and watering schedules.</li>
+                </ul>
+
+                <strong>System Components:</strong>
+                <ul>
+                    <li>Sensors: Dedicated sensors for monitoring temperature, humidity, light exposure, and soil moisture levels.</li>
+                    <li>Microcontroller: Facilitates data collection and interaction with the monitoring system.</li>
+                    <li>Connectivity options: Supports Wi-Fi and Bluetooth for remote access and control of plant conditions.</li>
+                    <li>Cloud Integration: Data storage and analysis for seamless access and historical analysis.</li>
+                </ul>
+
+                <strong>Data Privacy and Security:</strong>
+                Our system prioritizes user data security. All information is encrypted using the latest security protocols to ensure the confidentiality and integrity of user data. Multi-factor user authentication is implemented to protect against unauthorized access.
+
+                <strong>Maintenance and Support:</strong>
+                The system requires minimal maintenance. Sensors are designed for durability and accuracy, requiring occasional cleaning for optimal performance. Detailed guidelines are available for battery replacement, sensor maintenance, and troubleshooting common issues.
+
+                <strong>Technology Stack:</strong>
+                The Home Plant Monitoring System is built using modern technologies such as JavaScript, Node.js, and cloud services for data storage and management.
+
+                For further information or support, please contact us at support@homeplantmonitoring.com or visit our website.
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // JavaScript to show/hide the About section when the button is clicked
+        document.getElementById("aboutBtn").addEventListener("click", function () {
+            var aboutContent = document.getElementById("aboutContent");
+            if (aboutContent.style.display === "none" || aboutContent.style.display === '') {
+                aboutContent.style.display = "block";
+            } else {
+                aboutContent.style.display = "none";
+            }
+        });
+    </script>
+</body>
+
+</html>

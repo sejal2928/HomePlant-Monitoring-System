@@ -1,0 +1,601 @@
+S.no,Plant name(Botanical Name),Water level,Temperature,Sun light,Soil Moisture
+1,Rose (Rosa spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Well-Drained
+2,Tulip (Tulipa spp.),Low,"Prefer cooler, shaded areas",Shade Plants,Moist
+3,Lavender (Lavandula spp.),Moderate,Warm to hot climates,Full sun,Moist to Wet
+4,Sunflower (Helianthus annuus),High,Cool to temperate climates,Full sun,Moist
+5,Marigold (Tagetes spp.),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Well-Drained
+6,Daffodil (Narcissus spp.),Moderate,Cool to temperate climates,Shade Plants,Consistently Moist
+7,Hydrangea (Hydrangea spp.),Low,Warm to hot climates,Full sun,Moist
+8,Petunia (Petunia spp.),High,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Waterlogged
+9,Hosta (Hosta spp.),Moderate,Tolerates a range of temperatures,Shade Plants,Well-Drained
+10,Lily (Lilium spp.),Moderate,"Hot, dry climates",Full sun,Moist
+11,Azalea (Rhododendron spp.),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+12,Daisy (Bellis perennis),Low,Cool to temperate climates,Full sun,Well-Drained
+13,Iris (Iris spp.),Low,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+14,Peony (Paeonia spp.),Moderate,Tolerates a range of temperatures,Full sun,Moist to Wet
+15,Daylily (Hemerocallis spp.),High,"Hot, dry climates",Partial Sun/Partial Shade Plants,Consistently Moist
+16,Geranium (Pelargonium spp.),High,"Prefer cooler, shaded areas",Full sun,Waterlogged
+17,Zinnia (Zinnia spp.),Low,Warm to hot climates,Shade Plants,Moist
+18,Chrysanthemum (Chrysanthemum spp.),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Well-Drained
+19,Dandelion (Taraxacum officinale),High,Tolerates a range of temperatures,Full sun,Moist to Wet
+20,Hollyhock (Alcea spp.),Low,"Hot, dry climates",Shade Plants,Well-Drained
+21,Bleeding Heart (Dicentra spectabilis),Moderate,Warm to hot climates,Full sun,Consistently Moist
+22,Camellia (Camellia spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+23,Forsythia (Forsythia spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Waterlogged
+24,Orchid (Orchidaceae),Moderate,"Prefer cooler, shaded areas",Full sun,Consistently Moist
+25,Butterfly Bush (Buddleja davidii),Moderate,"Hot, dry climates",Shade Plants,Moist to Wet
+26,Peppermint (Mentha × piperita),High,Cool to temperate climates,Full sun,Moist
+27,Foxglove (Digitalis purpurea),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Consistently Moist
+28,Lilac (Syringa vulgaris),Low,Tolerates a range of temperatures,Full sun,Well-Drained
+29,Honeysuckle (Lonicera spp.),Moderate,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+30,Yarrow (Achillea millefolium),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+31,Crocus (Crocus spp.),Low,Warm to hot climates,Full sun,Moist to Wet
+32,Bleeding Heart (Dicentra spectabilis),High,"Hot, dry climates",Partial Sun/Partial Shade Plants,Waterlogged
+33,Black-Eyed Susan (Rudbeckia hirta),Moderate,Cool to temperate climates,Full sun,Well-Drained
+34,Dianthus (Dianthus spp.),Moderate,"Prefer cooler, shaded areas",Shade Plants,Moist
+35,Holly (Ilex spp.),High,Tolerates a range of temperatures,Full sun,Moist to Wet
+36,Rhododendron (Rhododendron spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+37,Agapanthus (Agapanthus spp.),Low,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+38,Canna Lily (Canna indica),Moderate,Tolerates a range of temperatures,Full sun,Well-Drained
+39,Lantana (Lantana camara),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+40,Lobelia (Lobelia spp.),High,"Hot, dry climates",Full sun,Moist
+41,Nasturtium (Tropaeolum majus),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+42,Wisteria (Wisteria spp.),Moderate,Cool to temperate climates,Full sun,Consistently Moist
+43,Calla Lily (Zantedeschia spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+44,Sweet Alyssum (Lobularia maritima),Low,"Prefer cooler, shaded areas",Shade Plants,Well-Drained
+45,Snowdrop (Galanthus spp.),Moderate,Cool to temperate climates,Full sun,Moist to Wet
+46,Bleeding Heart (Dicentra spectabilis),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+47,Coreopsis (Coreopsis spp.),High,Tolerates a range of temperatures,Shade Plants,Consistently Moist
+48,Gaura (Gaura lindheimeri),Moderate,"Prefer cooler, shaded areas",Full sun,Well-Drained
+49,Snapdragons (Antirrhinum majus),Moderate,Warm to hot climates,Full sun,Waterlogged
+50,Columbine (Aquilegia spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+51,Butterfly Weed (Asclepias tuberosa),Low,Tolerates a range of temperatures,Shade Plants,Consistently Moist
+52,Bee Balm (Monarda didyma),Low,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+53,Coral Bells (Heuchera spp.),Moderate,Warm to hot climates,Partial Sun/Partial Shade Plants,Well-Drained
+54,Hellebore (Helleborus spp.),High,Cool to temperate climates,Shade Plants,Waterlogged
+55,Joe-Pye Weed (Eutrochium purpureum),High,"Hot, dry climates",Full sun,Moist
+56,Phlox (Phlox spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+57,Russian Sage (Perovskia atriplicifolia),Moderate,Warm to hot climates,Full sun,Moist
+58,Echinacea (Echinacea spp.),High,"Prefer cooler, shaded areas",Shade Plants,Well-Drained
+59,Gaillardia (Gaillardia spp.),Low,Tolerates a range of temperatures,Full sun,Consistently Moist
+60,Blanket Flower (Gaillardia aristata),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist to Wet
+61,Delphinium (Delphinium spp.),Low,Warm to hot climates,Full sun,Moist
+62,Astilbe (Astilbe spp.),High,Cool to temperate climates,Shade Plants,Consistently Moist
+63,Beech (Fagus spp.),Moderate,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Waterlogged
+64,Ginkgo (Ginkgo biloba),Moderate,Tolerates a range of temperatures,Full sun,Moist
+65,Holly (Ilex spp.),High,"Hot, dry climates",Shade Plants,Well-Drained
+66,Rhubarb (Rheum rhabarbarum),Low,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+67,Coneflower (Rudbeckia spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Well-Drained
+68,Yucca (Yucca spp.),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+69,Yew (Taxus spp.),High,Tolerates a range of temperatures,Full sun,Moist
+70,Sweet Woodruff (Galium odoratum),High,"Hot, dry climates",Shade Plants,Waterlogged
+71,Lily of the Valley (Convallaria majalis),Low,Warm to hot climates,Full sun,Moist to Wet
+72,Verbena (Verbena spp.),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+73,Coneflower (Echinacea spp.),High,Tolerates a range of temperatures,Full sun,Moist to Wet
+74,Black-Eyed Susan Vine (Thunbergia alata),Low,"Prefer cooler, shaded areas",Shade Plants,Well-Drained
+75,Shasta Daisy (Leucanthemum spp.),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+76,Campanula (Campanula spp.),Low,Cool to temperate climates,Full sun,Well-Drained
+77,Candytuft (Iberis spp.),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Consistently Moist
+78,Blue Star (Amsonia spp.),Moderate,Tolerates a range of temperatures,Full sun,Moist
+79,Dianella (Dianella spp.),Moderate,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+80,Foamflower (Tiarella cordifolia),High,Tolerates a range of temperatures,Full sun,Waterlogged
+81,Jacob's Ladder (Polemonium spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+82,Lemon Balm (Melissa officinalis),Low,"Hot, dry climates",Shade Plants,Consistently Moist
+83,Sedum (Sedum spp.),Moderate,Cool to temperate climates,Full sun,Moist
+84,Lady's Mantle (Alchemilla mollis),High,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist
+85,Bishop's Weed (Aegopodium podagraria),High,Tolerates a range of temperatures,Full sun,Well-Drained
+86,Anemone (Anemone spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Well-Drained
+87,Bleeding Heart (Dicentra spectabilis),Moderate,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+88,Calendula (Calendula officinalis),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+89,Globe Thistle (Echinops ritro),Low,Warm to hot climates,Shade Plants,Consistently Moist
+90,Moonflower (Ipomoea alba),Moderate,"Hot, dry climates",Full sun,Moist
+91,Hollyhock (Alcea spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+92,Salvia (Salvia spp.),High,Cool to temperate climates,Shade Plants,Moist to Wet
+93,Helenium (Helenium spp.),Moderate,Tolerates a range of temperatures,Full sun,Moist
+94,Oregano (Origanum vulgare),Moderate,"Prefer cooler, shaded areas",Full sun,Well-Drained
+95,Peony (Paeonia spp.),High,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+96,Thyme (Thymus spp.),Low,"Hot, dry climates",Shade Plants,Waterlogged
+97,Black-Eyed Susan (Rudbeckia fulgida),Low,Tolerates a range of temperatures,Full sun,Moist
+98,Baptisia (Baptisia spp.),Moderate,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Well-Drained
+99,Garden Sage (Salvia officinalis),High,Warm to hot climates,Shade Plants,Waterlogged
+100,Lavatera (Lavatera spp.),High,Tolerates a range of temperatures,Full sun,Moist to Wet
+101,Bluebell (Hyacinthoides spp.),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Consistently Moist
+102,Penstemon (Penstemon spp.),Low,"Prefer cooler, shaded areas",Full sun,Moist
+103,Bluebonnet (Lupinus spp.),High,Warm to hot climates,Shade Plants,Moist
+104,Dutch Iris (Iris hollandica),Low,Cool to temperate climates,Full sun,Moist
+105,Bleeding Heart (Dicentra spectabilis),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Well-Drained
+106,Canterbury Bells (Campanula medium),Moderate,Cool to temperate climates,Full sun,Moist
+107,Speedwell (Veronica spp.),High,Warm to hot climates,Shade Plants,Waterlogged
+108,Ostrich Fern (Matteuccia struthiopteris),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist to Wet
+109,Viola (Viola spp.),High,Tolerates a range of temperatures,Full sun,Well-Drained
+110,Monkshood (Aconitum spp.),Moderate,"Hot, dry climates",Shade Plants,Moist
+111,Jacob's Ladder (Polemonium spp.),Moderate,Warm to hot climates,Full sun,Consistently Moist
+112,Malva (Malva spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+113,Money Plant (Lunaria annua),High,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist
+114,Joe Pye Weed (Eutrochium spp.),Moderate,Tolerates a range of temperatures,Full sun,Well-Drained
+115,Lungwort (Pulmonaria spp.),High,"Hot, dry climates",Shade Plants,Waterlogged
+116,Sneezeweed (Helenium spp.),Low,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+117,Mexican Hat (Ratibida columnifera),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+118,False Sunflower (Heliopsis helianthoides),Moderate,Cool to temperate climates,Full sun,Well-Drained
+119,Soapwort (Saponaria spp.),High,Tolerates a range of temperatures,Shade Plants,Waterlogged
+120,Lilyturf (Liriope spp.),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+121,Thyme (Thymus spp.),Low,Warm to hot climates,Full sun,Consistently Moist
+122,Bergenia (Bergenia spp.),High,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist to Wet
+123,Creeping Jenny (Lysimachia nummularia),Moderate,Tolerates a range of temperatures,Full sun,Moist
+124,Lavender Cotton (Santolina spp.),High,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+125,Phlox (Phlox spp.),Low,"Hot, dry climates",Full sun,Well-Drained
+126,Columbine (Aquilegia spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+127,Lady's Mantle (Alchemilla spp.),Moderate,Warm to hot climates,Shade Plants,Moist to Wet
+128,Salvia (Salvia spp.),High,Tolerates a range of temperatures,Full sun,Moist
+129,Hosta (Hosta spp.),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist to Wet
+130,Garden Sage (Salvia officinalis),Moderate,Tolerates a range of temperatures,Full sun,Waterlogged
+131,Goldenrod (Solidago spp.),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+132,Crocosmia (Crocosmia spp.),Low,"Hot, dry climates",Full sun,Moist
+133,Euphorbia (Euphorbia spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+134,Sneezewort (Achillea ptarmica),Moderate,"Prefer cooler, shaded areas",Shade Plants,Well-Drained
+135,Speedwell (Veronica spp.),High,Tolerates a range of temperatures,Full sun,Moist
+136,Sweet Woodruff (Galium odoratum),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+137,Toad Lily (Tricyrtis spp.),Low,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+138,Verbascum (Verbascum spp.),High,Tolerates a range of temperatures,Full sun,Well-Drained
+139,Wallflower (Erysimum spp.),Low,Warm to hot climates,Full sun,Moist to Wet
+140,Yarrow (Achillea millefolium),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+141,Red Hot Poker (Kniphofia uvaria),Low,Warm to hot climates,Shade Plants,Well-Drained
+142,Coneflower (Echinacea spp.),High,Cool to temperate climates,Full sun,Moist
+143,Tickseed (Coreopsis spp.),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist to Wet
+144,Baptisia (Baptisia spp.),Moderate,"Prefer cooler, shaded areas",Shade Plants,Consistently Moist
+145,Sweet William (Dianthus barbatus),High,Cool to temperate climates,Full sun,Moist
+146,Bloodroot (Sanguinaria canadensis),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+147,Beech (Fagus spp.),Low,Tolerates a range of temperatures,Full sun,Well-Drained
+148,Yew (Taxus spp.),Moderate,"Prefer cooler, shaded areas",Shade Plants,Moist to Wet
+149,Camellia (Camellia spp.),High,Warm to hot climates,Full sun,Waterlogged
+150,Dogwood (Cornus spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Consistently Moist
+151,Butterfly Bush (Buddleja davidii),Moderate,Tolerates a range of temperatures,Full sun,Moist
+152,Catmint (Nepeta spp.),Low,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+153,Mexican Sunflower (Tithonia rotundifolia),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+154,Joe-Pye Weed (Eutrochium purpureum),Low,Cool to temperate climates,Full sun,Moist to Wet
+155,Coral Honeysuckle (Lonicera sempervirens),Low,"Hot, dry climates",Shade Plants,Well-Drained
+156,Swamp Milkweed (Asclepias incarnata),Moderate,Cool to temperate climates,Full sun,Moist
+157,Liatris (Liatris spp.),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+158,Candytuft (Iberis spp.),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Consistently Moist
+159,Bee Balm (Monarda spp.),High,Tolerates a range of temperatures,Full sun,Waterlogged
+160,Solomon's Seal (Polygonatum spp.),Moderate,"Hot, dry climates",Shade Plants,Well-Drained
+161,Trumpet Vine (Campsis spp.),Moderate,Warm to hot climates,Full sun,Moist
+162,Scented Geranium (Pelargonium spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+163,Sweet Pea (Lathyrus odoratus),High,"Prefer cooler, shaded areas",Full sun,Moist
+164,Four O'Clock (Mirabilis jalapa),Moderate,Tolerates a range of temperatures,Shade Plants,Waterlogged
+165,Bleeding Heart (Dicentra spectabilis),High,"Hot, dry climates",Partial Sun/Partial Shade Plants,Well-Drained
+166,Barrenwort (Epimedium spp.),Low,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+167,Solomon's Seal (Polygonatum spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+168,Japanese Anemone (Anemone hupehensis),Moderate,Cool to temperate climates,Full sun,Consistently Moist
+169,Lavatera (Lavatera spp.),High,Tolerates a range of temperatures,Shade Plants,Moist
+170,Lavender Cotton (Santolina spp.),Moderate,"Hot, dry climates",Full sun,Waterlogged
+171,Malva (Malva spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+172,Mock Orange (Philadelphus spp.),High,Cool to temperate climates,Shade Plants,Moist
+173,Ornamental Grasses (Various species),Moderate,Tolerates a range of temperatures,Full sun,Moist to Wet
+174,Rock Rose (Cistus spp.),High,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Consistently Moist
+175,Russian Sage (Perovskia atriplicifolia),Low,"Hot, dry climates",Full sun,Well-Drained
+176,Lamb's Ear (Stachys byzantina),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+177,Monkshood (Aconitum spp.),Moderate,Warm to hot climates,Full sun,Well-Drained
+178,Japanese Spurge (Pachysandra terminalis),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Waterlogged
+179,Creeping Jenny (Lysimachia nummularia),Low,"Prefer cooler, shaded areas",Shade Plants,Moist to Wet
+180,Foamflower (Tiarella spp.),Moderate,Tolerates a range of temperatures,Full sun,Consistently Moist
+181,Lenten Rose (Helleborus spp.),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+182,Daphne (Daphne spp.),Low,"Hot, dry climates",Shade Plants,Moist
+183,Oregano (Origanum spp.),Low,Cool to temperate climates,Full sun,Waterlogged
+184,Hosta (Hosta spp.),Moderate,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+185,Bugleweed (Ajuga reptans),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Well-Drained
+186,Asters (Aster spp.),Low,Cool to temperate climates,Shade Plants,Consistently Moist
+187,Catmint (Nepeta spp.),Moderate,"Prefer cooler, shaded areas",Full sun,Moist
+188,Lungwort (Pulmonaria spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+189,Leopard's Bane (Doronicum spp.),Low,Warm to hot climates,Shade Plants,Moist to Wet
+190,Blue Fescue (Festuca glauca),Moderate,"Hot, dry climates",Full sun,Waterlogged
+191,Iris (Iris spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+192,Solomon's Seal (Polygonatum spp.),High,Cool to temperate climates,Full sun,Moist
+193,Sweet William (Dianthus barbatus),Moderate,Tolerates a range of temperatures,Shade Plants,Well-Drained
+194,Lady's Mantle (Alchemilla spp.),Moderate,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+195,Euphorbia (Euphorbia spp.),High,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+196,Periwinkle (Vinca spp.),Low,"Hot, dry climates",Full sun,Moist
+197,Cranesbill (Geranium spp.),Low,Tolerates a range of temperatures,Shade Plants,Moist to Wet
+198,Coral Bells (Heuchera spp.),Moderate,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Well-Drained
+199,Coneflower (Echinacea spp.),High,Warm to hot climates,Full sun,Waterlogged
+200,Moonflower (Ipomoea alba),High,Tolerates a range of temperatures,Shade Plants,Moist
+201,Thyme (Thymus spp.),Moderate,Tolerates a range of temperatures,Full sun,Well-Drained
+202,Foxglove (Digitalis purpurea),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist
+203,Snapdragon (Antirrhinum majus),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+204,Viola (Viola spp.),Low,Cool to temperate climates,Full sun,Moist
+205,Celosia (Celosia spp.),Low,"Hot, dry climates",Shade Plants,Well-Drained
+206,Heliotrope (Heliotropium arborescens),Moderate,Cool to temperate climates,Full sun,Consistently Moist
+207,Stonecrop (Sedum spp.),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+208,Joe-Pye Weed (Eutrochium purpureum),Low,"Prefer cooler, shaded areas",Full sun,Waterlogged
+209,Coneflower (Echinacea spp.),High,Tolerates a range of temperatures,Shade Plants,Well-Drained
+210,Japanese Maple (Acer palmatum),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+211,Speedwell (Veronica spp.),Moderate,Warm to hot climates,Full sun,Moist
+212,Lungwort (Pulmonaria spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Well-Drained
+213,Columbine (Aquilegia spp.),High,"Prefer cooler, shaded areas",Full sun,Waterlogged
+214,Japanese Forest Grass (Hakonechloa macra),Moderate,Tolerates a range of temperatures,Shade Plants,Moist to Wet
+215,Rose Campion (Lychnis coronaria),High,"Hot, dry climates",Full sun,Consistently Moist
+216,Delosperma (Delosperma spp.),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Waterlogged
+217,Russian Sage (Perovskia atriplicifolia),Low,Warm to hot climates,Shade Plants,Moist
+218,Canna Lily (Canna spp.),Moderate,Cool to temperate climates,Full sun,Well-Drained
+219,Liatris (Liatris spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist to Wet
+220,Agastache (Agastache spp.),Moderate,"Hot, dry climates",Full sun,Well-Drained
+221,Camellia (Camellia spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Consistently Moist
+222,Dicentra (Dicentra spp.),High,Cool to temperate climates,Full sun,Moist
+223,Creeping Jenny (Lysimachia nummularia),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Waterlogged
+224,Coral Bells (Heuchera spp.),High,"Prefer cooler, shaded areas",Shade Plants,Consistently Moist
+225,Painted Daisy (Tanacetum coccineum),Low,"Hot, dry climates",Full sun,Moist to Wet
+226,Lady's Mantle (Alchemilla spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+227,Mock Orange (Philadelphus spp.),Moderate,Warm to hot climates,Shade Plants,Consistently Moist
+228,Lambs Ear (Stachys byzantina),High,Tolerates a range of temperatures,Full sun,Well-Drained
+229,Sweet Alyssum (Lobularia maritima),Low,"Prefer cooler, shaded areas",Full sun,Waterlogged
+230,Toad Lily (Tricyrtis spp.),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+231,Goldenrod (Solidago spp.),High,Warm to hot climates,Shade Plants,Moist to Wet
+232,Monkshood (Aconitum spp.),Low,"Hot, dry climates",Full sun,Waterlogged
+233,Blazing Star (Liatris spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Well-Drained
+234,Coral Honeysuckle (Lonicera sempervirens),Moderate,"Prefer cooler, shaded areas",Shade Plants,Moist
+235,Golden Marguerite (Anthemis tinctoria),High,Tolerates a range of temperatures,Full sun,Moist to Wet
+236,Baptisia (Baptisia spp.),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+237,Cranesbill (Geranium spp.),Low,"Prefer cooler, shaded areas",Full sun,Waterlogged
+238,Japanese Anemone (Anemone hupehensis),High,Tolerates a range of temperatures,Shade Plants,Well-Drained
+239,Barrenwort (Epimedium spp.),Low,Warm to hot climates,Full sun,Moist
+240,Bleeding Heart (Dicentra spectabilis),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+241,Japanese Spurge (Pachysandra terminalis),Low,Warm to hot climates,Full sun,Moist to Wet
+242,Butterfly Weed (Asclepias tuberosa),High,Cool to temperate climates,Shade Plants,Consistently Moist
+243,False Sunflower (Heliopsis helianthoides),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+244,Hosta (Hosta spp.),Moderate,"Prefer cooler, shaded areas",Full sun,Well-Drained
+245,Daylily (Hemerocallis spp.),High,Cool to temperate climates,Shade Plants,Moist to Wet
+246,Rose of Sharon (Hibiscus syriacus),Low,"Hot, dry climates",Full sun,Moist
+247,Globe Thistle (Echinops ritro),Low,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Consistently Moist
+248,Ajuga (Ajuga reptans),Moderate,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Well-Drained
+249,Money Plant (Lunaria annua),High,Warm to hot climates,Full sun,Waterlogged
+250,Lavender Cotton (Santolina spp.),High,Tolerates a range of temperatures,Shade Plants,Moist
+251,Rock Rose (Cistus spp.),Moderate,Tolerates a range of temperatures,Full sun,Consistently Moist
+252,Speedwell (Veronica spp.),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist to Wet
+253,Lemon Balm (Melissa officinalis),High,Warm to hot climates,Full sun,Well-Drained
+254,Penstemon (Penstemon spp.),Low,Cool to temperate climates,Shade Plants,Waterlogged
+255,Foxtail Lily (Eremurus spp.),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+256,Meadow Rue (Thalictrum spp.),Moderate,Cool to temperate climates,Full sun,Moist
+257,Germander (Teucrium spp.),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+258,Candytuft (Iberis spp.),Low,"Prefer cooler, shaded areas",Full sun,Well-Drained
+259,Jacob's Ladder (Polemonium spp.),High,Tolerates a range of temperatures,Shade Plants,Consistently Moist
+260,Hellebore (Helleborus spp.),Moderate,"Hot, dry climates",Full sun,Moist to Wet
+261,Evening Primrose (Oenothera spp.),Moderate,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+262,Goldenrod (Solidago spp.),Low,Cool to temperate climates,Shade Plants,Consistently Moist
+263,Torch Lily (Kniphofia spp.),High,"Prefer cooler, shaded areas",Full sun,Waterlogged
+264,Catmint (Nepeta spp.),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+265,Butterfly Milkweed (Asclepias tuberosa),High,"Hot, dry climates",Full sun,Well-Drained
+266,Red Hot Poker (Kniphofia uvaria),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist to Wet
+267,Lady's Mantle (Alchemilla mollis),Low,Warm to hot climates,Full sun,Well-Drained
+268,Hosta (Hosta spp.),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+269,Oregano (Origanum spp.),High,Tolerates a range of temperatures,Shade Plants,Moist
+270,Phlox (Phlox spp.),Moderate,"Hot, dry climates",Full sun,Waterlogged
+271,Heuchera (Heuchera spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+272,Lavender Cotton (Santolina chamaecyparissus),High,Cool to temperate climates,Shade Plants,Moist
+273,St. John's Wort (Hypericum spp.),Moderate,Tolerates a range of temperatures,Full sun,Moist to Wet
+274,Lady Fern (Athyrium filix-femina),High,"Prefer cooler, shaded areas",Full sun,Well-Drained
+275,Bugleweed (Ajuga reptans),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+276,Catmint (Nepeta spp.),Low,Cool to temperate climates,Shade Plants,Well-Drained
+277,Bloodroot (Sanguinaria canadensis),Moderate,Warm to hot climates,Full sun,Consistently Moist
+278,Lenten Rose (Helleborus spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+279,Creeping Jenny (Lysimachia nummularia),Low,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+280,Holly (Ilex spp.),Moderate,Tolerates a range of temperatures,Full sun,Waterlogged
+281,Sweet William (Dianthus barbatus),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+282,Foxglove (Digitalis purpurea),Low,"Hot, dry climates",Full sun,Consistently Moist
+283,Sweet Pea (Lathyrus odoratus),Low,Cool to temperate climates,Shade Plants,Moist
+284,Baptisia (Baptisia spp.),Moderate,"Prefer cooler, shaded areas",Full sun,Moist
+285,Bleeding Heart (Dicentra spectabilis),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Well-Drained
+286,Jacob's Ladder (Polemonium spp.),Low,Cool to temperate climates,Full sun,Well-Drained
+287,Coral Bells (Heuchera spp.),Moderate,"Prefer cooler, shaded areas",Shade Plants,Moist to Wet
+288,Salvia (Salvia spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+289,Euphorbia (Euphorbia spp.),Low,Warm to hot climates,Full sun,Consistently Moist
+290,Bleeding Heart (Dicentra spectabilis),Moderate,"Hot, dry climates",Shade Plants,Moist
+291,Coreopsis (Coreopsis spp.),Low,Warm to hot climates,Full sun,Moist
+292,Gaura (Gaura lindheimeri),High,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist to Wet
+293,Lobelia (Lobelia spp.),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+294,Nasturtium (Tropaeolum majus),Moderate,"Prefer cooler, shaded areas",Full sun,Well-Drained
+295,Wisteria (Wisteria spp.),High,Cool to temperate climates,Shade Plants,Consistently Moist
+296,Calla Lily (Zantedeschia spp.),Low,"Hot, dry climates",Full sun,Waterlogged
+297,Sweet Alyssum (Lobularia maritima),Low,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+298,Snowdrop (Galanthus spp.),Moderate,"Prefer cooler, shaded areas",Full sun,Well-Drained
+299,Bleeding Heart (Dicentra spectabilis),High,Warm to hot climates,Shade Plants,Waterlogged
+300,Black-Eyed Susan (Rudbeckia hirta),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist to Wet
+301,Foxglove (Digitalis purpurea),Moderate,Tolerates a range of temperatures,Full sun,Consistently Moist
+302,Lupine (Lupinus spp.),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist
+303,Delphinium (Delphinium spp.),High,Warm to hot climates,Full sun,Moist
+304,Baptisia (Baptisia spp.),Low,Cool to temperate climates,Shade Plants,Moist
+305,Candytuft (Iberis spp.),Low,"Hot, dry climates",Full sun,Well-Drained
+306,Joe Pye Weed (Eutrochium purpureum),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+307,Balloon Flower (Platycodon grandiflorus),High,Warm to hot climates,Shade Plants,Waterlogged
+308,Gaura (Gaura lindheimeri),Low,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+309,Black-Eyed Susan (Rudbeckia spp.),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Well-Drained
+310,Bee Balm (Monarda spp.),Moderate,"Hot, dry climates",Full sun,Moist
+311,Bleeding Heart (Dicentra spectabilis),Moderate,Warm to hot climates,Partial Sun/Partial Shade Plants,Consistently Moist
+312,Lavender Cotton (Santolina spp.),Low,Cool to temperate climates,Full sun,Moist
+313,Butterfly Bush (Buddleja davidii),High,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist
+314,Catmint (Nepeta spp.),Moderate,Tolerates a range of temperatures,Shade Plants,Well-Drained
+315,Perennial Sunflower (Helianthus spp.),High,"Hot, dry climates",Full sun,Waterlogged
+316,Purple Coneflower (Echinacea purpurea),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist to Wet
+317,Beech (Fagus spp.),Low,Warm to hot climates,Shade Plants,Moist
+318,Goldenrod (Solidago spp.),Moderate,Cool to temperate climates,Full sun,Well-Drained
+319,Monkshood (Aconitum spp.),High,Tolerates a range of temperatures,Full sun,Waterlogged
+320,Ornamental Grasses (Various species),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+321,Siberian Iris (Iris sibirica),Low,Warm to hot climates,Shade Plants,Consistently Moist
+322,Speedwell (Veronica spp.),High,Cool to temperate climates,Full sun,Moist to Wet
+323,Spider Flower (Cleome hassleriana),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+324,False Indigo (Baptisia australis),High,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+325,Columbine (Aquilegia spp.),Low,"Hot, dry climates",Full sun,Well-Drained
+326,Japanese Maple (Acer palmatum),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+327,Rock Cress (Aubrieta deltoidea),Moderate,Warm to hot climates,Full sun,Moist to Wet
+328,Siberian Iris (Iris sibirica),High,Tolerates a range of temperatures,Shade Plants,Moist
+329,Balloon Flower (Platycodon grandiflorus),Low,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+330,Sweet Woodruff (Galium odoratum),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Waterlogged
+331,Red Hot Poker (Kniphofia spp.),High,Warm to hot climates,Full sun,Moist
+332,Bishop's Hat (Epimedium spp.),Low,"Hot, dry climates",Shade Plants,Moist
+333,Gooseneck Loosestrife (Lysimachia clethroides),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+334,Mexican Hat (Ratibida columnifera),Moderate,"Prefer cooler, shaded areas",Full sun,Well-Drained
+335,Blue False Indigo (Baptisia australis),High,Tolerates a range of temperatures,Shade Plants,Moist
+336,False Sunflower (Heliopsis helianthoides),Moderate,Cool to temperate climates,Full sun,Moist
+337,Blazing Star (Liatris spp.),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Waterlogged
+338,Mexican Sunflower (Tithonia rotundifolia),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Well-Drained
+339,Chinese Lantern (Physalis alkekengi),Low,Warm to hot climates,Full sun,Moist to Wet
+340,Hosta (Hosta spp.),Moderate,"Hot, dry climates",Shade Plants,Moist
+341,Peony (Paeonia spp.),Low,Warm to hot climates,Full sun,Well-Drained
+342,Butterfly Milkweed (Asclepias tuberosa),High,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+343,Golden Marguerite (Anthemis tinctoria),Moderate,Tolerates a range of temperatures,Full sun,Moist to Wet
+344,Balloon Flower (Platycodon grandiflorus),Moderate,"Prefer cooler, shaded areas",Shade Plants,Consistently Moist
+345,Coral Honeysuckle (Lonicera sempervirens),High,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+346,Solomon's Seal (Polygonatum spp.),Low,"Hot, dry climates",Full sun,Moist
+347,Torch Lily (Kniphofia spp.),Low,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Well-Drained
+348,Pincushion Flower (Scabiosa spp.),Moderate,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+349,Gaillardia (Gaillardia spp.),High,Warm to hot climates,Shade Plants,Waterlogged
+350,Sweet Pea (Lathyrus odoratus),High,Tolerates a range of temperatures,Full sun,Consistently Moist
+351,Bee Balm (Monarda didyma),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+352,Painted Daisy (Tanacetum coccineum),Low,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+353,Coral Bells (Heuchera spp.),High,Warm to hot climates,Full sun,Moist
+354,Hellebore (Helleborus spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist to Wet
+355,Lenten Rose (Helleborus spp.),Low,"Hot, dry climates",Full sun,Well-Drained
+356,Lady's Mantle (Alchemilla spp.),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+357,Perennial Sweet Pea (Lathyrus latifolius),High,Warm to hot climates,Full sun,Moist to Wet
+358,Red Hot Poker (Kniphofia uvaria),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Consistently Moist
+359,Coreopsis (Coreopsis spp.),High,Tolerates a range of temperatures,Shade Plants,Waterlogged
+360,Bleeding Heart (Dicentra spectabilis),Moderate,"Hot, dry climates",Full sun,Well-Drained
+361,Liatris (Liatris spp.),Moderate,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+362,Foxglove (Digitalis purpurea),Low,Cool to temperate climates,Shade Plants,Moist
+363,Penstemon (Penstemon spp.),High,"Prefer cooler, shaded areas",Full sun,Moist
+364,Bluebonnet (Lupinus spp.),Moderate,Tolerates a range of temperatures,Full sun,Waterlogged
+365,Dutch Iris (Iris hollandica),High,"Hot, dry climates",Partial Sun/Partial Shade Plants,Well-Drained
+366,Canterbury Bells (Campanula medium),Low,"Prefer cooler, shaded areas",Shade Plants,Moist to Wet
+367,Speedwell (Veronica spp.),Low,Warm to hot climates,Full sun,Moist
+368,Ostrich Fern (Matteuccia struthiopteris),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+369,Viola (Viola spp.),High,Tolerates a range of temperatures,Shade Plants,Moist
+370,Monkshood (Aconitum spp.),Moderate,"Hot, dry climates",Full sun,Waterlogged
+371,Jacob's Ladder (Polemonium spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+372,Malva (Malva spp.),High,Cool to temperate climates,Full sun,Moist
+373,Money Plant (Lunaria annua),Moderate,Tolerates a range of temperatures,Shade Plants,Moist to Wet
+374,Joe Pye Weed (Eutrochium purpureum),High,"Prefer cooler, shaded areas",Full sun,Consistently Moist
+375,Lungwort (Pulmonaria spp.),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Well-Drained
+376,Sneezeweed (Helenium spp.),Low,Cool to temperate climates,Full sun,Moist
+377,Mexican Hat (Ratibida columnifera),Moderate,Warm to hot climates,Shade Plants,Well-Drained
+378,False Sunflower (Heliopsis helianthoides),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Waterlogged
+379,Soapwort (Saponaria spp.),Low,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+380,Lilyturf (Liriope spp.),Moderate,Tolerates a range of temperatures,Shade Plants,Consistently Moist
+381,Lily of the Valley (Convallaria majalis),High,Warm to hot climates,Full sun,Moist
+382,Verbena (Verbena spp.),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+383,Calla Lily (Zantedeschia spp.),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Waterlogged
+384,Sweet Alyssum (Lobularia maritima),Moderate,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+385,Snowdrop (Galanthus spp.),High,Tolerates a range of temperatures,Shade Plants,Well-Drained
+386,Bleeding Heart (Dicentra spectabilis),Low,Cool to temperate climates,Full sun,Consistently Moist
+387,Coreopsis (Coreopsis spp.),Moderate,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Moist
+388,Gaura (Gaura lindheimeri),High,Tolerates a range of temperatures,Full sun,Moist
+389,Snapdragons (Antirrhinum majus),Low,Warm to hot climates,Shade Plants,Moist to Wet
+390,Columbine (Aquilegia spp.),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Waterlogged
+391,Lily of the Valley (Convallaria majalis),Low,Warm to hot climates,Full sun,Moist
+392,Verbena (Verbena spp.),High,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+393,Candytuft (Iberis spp.),Moderate,Tolerates a range of temperatures,Full sun,Well-Drained
+394,Blue Star (Amsonia spp.),Moderate,"Prefer cooler, shaded areas",Shade Plants,Moist to Wet
+395,Dianella (Dianella spp.),High,Cool to temperate climates,Full sun,Consistently Moist
+396,Foamflower (Tiarella cordifolia),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+397,Jacob's Ladder (Polemonium spp.),Low,Tolerates a range of temperatures,Shade Plants,Moist to Wet
+398,Lemon Balm (Melissa officinalis),Moderate,"Prefer cooler, shaded areas",Full sun,Well-Drained
+399,Sedum (Sedum spp.),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Waterlogged
+400,Lady's Mantle (Alchemilla mollis),High,Tolerates a range of temperatures,Full sun,Moist
+401,Foxglove (Digitalis purpurea),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Well-Drained
+402,Lupine (Lupinus spp.),Low,"Prefer cooler, shaded areas",Full sun,Moist
+403,Delphinium (Delphinium spp.),High,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+404,Baptisia (Baptisia spp.),Low,Cool to temperate climates,Shade Plants,Moist
+405,Candytuft (Iberis spp.),Low,"Hot, dry climates",Full sun,Well-Drained
+406,Joe Pye Weed (Eutrochium purpureum),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+407,Balloon Flower (Platycodon grandiflorus),High,Warm to hot climates,Shade Plants,Moist
+408,Gaura (Gaura lindheimeri),Low,"Prefer cooler, shaded areas",Full sun,Waterlogged
+409,Black-Eyed Susan (Rudbeckia spp.),High,Tolerates a range of temperatures,Full sun,Well-Drained
+410,Bee Balm (Monarda spp.),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+411,Bleeding Heart (Dicentra spectabilis),Moderate,Warm to hot climates,Shade Plants,Moist
+412,Lavender Cotton (Santolina spp.),Low,Cool to temperate climates,Full sun,Well-Drained
+413,Butterfly Bush (Buddleja davidii),High,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Waterlogged
+414,Catmint (Nepeta spp.),Moderate,Tolerates a range of temperatures,Shade Plants,Moist to Wet
+415,Perennial Sunflower (Helianthus spp.),High,"Hot, dry climates",Full sun,Consistently Moist
+416,Purple Coneflower (Echinacea purpurea),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Waterlogged
+417,Beech (Fagus spp.),Low,Warm to hot climates,Full sun,Moist
+418,Goldenrod (Solidago spp.),Moderate,Cool to temperate climates,Shade Plants,Well-Drained
+419,Monkshood (Aconitum spp.),High,Tolerates a range of temperatures,Full sun,Moist to Wet
+420,Ornamental Grasses (Various species),Moderate,"Hot, dry climates",Partial Sun/Partial Shade Plants,Well-Drained
+421,Siberian Iris (Iris sibirica),Low,Warm to hot climates,Full sun,Consistently Moist
+422,Speedwell (Veronica spp.),High,Cool to temperate climates,Shade Plants,Moist
+423,Spider Flower (Cleome hassleriana),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Waterlogged
+424,False Indigo (Baptisia australis),High,"Prefer cooler, shaded areas",Full sun,Consistently Moist
+425,Columbine (Aquilegia spp.),Low,"Hot, dry climates",Shade Plants,Moist to Wet
+426,Japanese Maple (Acer palmatum),Low,Cool to temperate climates,Full sun,Moist
+427,Rock Cress (Aubrieta deltoidea),Moderate,Warm to hot climates,Partial Sun/Partial Shade Plants,Consistently Moist
+428,Siberian Iris (Iris sibirica),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Well-Drained
+429,Balloon Flower (Platycodon grandiflorus),Low,"Prefer cooler, shaded areas",Full sun,Waterlogged
+430,Sweet Woodruff (Galium odoratum),Moderate,Tolerates a range of temperatures,Shade Plants,Moist
+431,Red Hot Poker (Kniphofia spp.),High,Warm to hot climates,Full sun,Moist to Wet
+432,Bishop's Hat (Epimedium spp.),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Waterlogged
+433,Gooseneck Loosestrife (Lysimachia clethroides),Low,Cool to temperate climates,Full sun,Well-Drained
+434,Mexican Hat (Ratibida columnifera),Moderate,"Prefer cooler, shaded areas",Shade Plants,Moist
+435,Blue False Indigo (Baptisia australis),High,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist to Wet
+436,False Sunflower (Heliopsis helianthoides),Moderate,Cool to temperate climates,Full sun,Consistently Moist
+437,Blazing Star (Liatris spp.),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Waterlogged
+438,Mexican Sunflower (Tithonia rotundifolia),High,Tolerates a range of temperatures,Full sun,Well-Drained
+439,Chinese Lantern (Physalis alkekengi),Low,Warm to hot climates,Shade Plants,Moist
+440,Hosta (Hosta spp.),Moderate,"Hot, dry climates",Full sun,Moist
+441,Peony (Paeonia spp.),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist to Wet
+442,Butterfly Milkweed (Asclepias tuberosa),High,Cool to temperate climates,Shade Plants,Consistently Moist
+443,Golden Marguerite (Anthemis tinctoria),Moderate,Tolerates a range of temperatures,Full sun,Moist
+444,Balloon Flower (Platycodon grandiflorus),Moderate,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Well-Drained
+445,Coral Honeysuckle (Lonicera sempervirens),High,Cool to temperate climates,Full sun,Moist to Wet
+446,Solomon's Seal (Polygonatum spp.),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+447,Torch Lily (Kniphofia spp.),Low,Tolerates a range of temperatures,Full sun,Consistently Moist
+448,Pincushion Flower (Scabiosa spp.),Moderate,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Well-Drained
+449,Gaillardia (Gaillardia spp.),High,Warm to hot climates,Shade Plants,Waterlogged
+450,Sweet Pea (Lathyrus odoratus),High,Tolerates a range of temperatures,Full sun,Moist
+451,Bee Balm (Monarda didyma),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Consistently Moist
+452,Painted Daisy (Tanacetum coccineum),Low,"Prefer cooler, shaded areas",Shade Plants,Moist to Wet
+453,Coral Bells (Heuchera spp.),High,Warm to hot climates,Full sun,Well-Drained
+454,Hellebore (Helleborus spp.),Low,Cool to temperate climates,Full sun,Waterlogged
+455,Lenten Rose (Helleborus spp.),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Moist
+456,Lady's Mantle (Alchemilla spp.),Moderate,Cool to temperate climates,Shade Plants,Moist
+457,Perennial Sweet Pea (Lathyrus latifolius),High,Warm to hot climates,Full sun,Moist
+458,Red Hot Poker (Kniphofia uvaria),Low,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Well-Drained
+459,Coreopsis (Coreopsis spp.),High,Tolerates a range of temperatures,Shade Plants,Consistently Moist
+460,Bleeding Heart (Dicentra spectabilis),Moderate,"Hot, dry climates",Full sun,Moist to Wet
+461,Liatris (Liatris spp.),Moderate,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+462,Foxglove (Digitalis purpurea),Low,Cool to temperate climates,Full sun,Consistently Moist
+463,Penstemon (Penstemon spp.),High,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+464,Bluebonnet (Lupinus spp.),Moderate,Tolerates a range of temperatures,Full sun,Moist
+465,Dutch Iris (Iris hollandica),High,"Hot, dry climates",Partial Sun/Partial Shade Plants,Well-Drained
+466,Canterbury Bells (Campanula medium),Low,"Prefer cooler, shaded areas",Full sun,Moist to Wet
+467,Speedwell (Veronica spp.),Low,Warm to hot climates,Shade Plants,Well-Drained
+468,Ostrich Fern (Matteuccia struthiopteris),Moderate,Cool to temperate climates,Partial Sun/Partial Shade Plants,Consistently Moist
+469,Viola (Viola spp.),High,Tolerates a range of temperatures,Full sun,Moist
+470,Monkshood (Aconitum spp.),Moderate,"Hot, dry climates",Shade Plants,Waterlogged
+471,Jacob's Ladder (Polemonium spp.),Low,Warm to hot climates,Full sun,Moist to Wet
+472,Malva (Malva spp.),High,Cool to temperate climates,Partial Sun/Partial Shade Plants,Moist
+473,Money Plant (Lunaria annua),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist to Wet
+474,Joe Pye Weed (Eutrochium purpureum),High,"Prefer cooler, shaded areas",Full sun,Well-Drained
+475,Lungwort (Pulmonaria spp.),Low,"Hot, dry climates",Shade Plants,Moist
+476,Sneezeweed (Helenium spp.),Low,Cool to temperate climates,Full sun,Well-Drained
+477,Mexican Hat (Ratibida columnifera),Moderate,Warm to hot climates,Partial Sun/Partial Shade Plants,Consistently Moist
+478,False Sunflower (Heliopsis helianthoides),High,Tolerates a range of temperatures,Full sun,Moist
+479,Soapwort (Saponaria spp.),Low,"Prefer cooler, shaded areas",Shade Plants,Waterlogged
+480,Lilyturf (Liriope spp.),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Waterlogged
+481,Lily of the Valley (Convallaria majalis),High,Warm to hot climates,Full sun,Moist to Wet
+482,Verbena (Verbena spp.),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Consistently Moist
+483,Calla Lily (Zantedeschia spp.),Low,Cool to temperate climates,Full sun,Moist
+484,Sweet Alyssum (Lobularia maritima),Moderate,"Prefer cooler, shaded areas",Shade Plants,Moist
+485,Snowdrop (Galanthus spp.),High,Tolerates a range of temperatures,Full sun,Well-Drained
+486,Bleeding Heart (Dicentra spectabilis),Low,Cool to temperate climates,Partial Sun/Partial Shade Plants,Well-Drained
+487,Coreopsis (Coreopsis spp.),Moderate,"Prefer cooler, shaded areas",Shade Plants,Moist to Wet
+488,Gaura (Gaura lindheimeri),High,Tolerates a range of temperatures,Full sun,Moist
+489,Snapdragons (Antirrhinum majus),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Consistently Moist
+490,Columbine (Aquilegia spp.),Moderate,"Hot, dry climates",Full sun,Moist
+491,Lily of the Valley (Convallaria majalis),Low,Warm to hot climates,Partial Sun/Partial Shade Plants,Moist
+492,Verbena (Verbena spp.),High,Cool to temperate climates,Full sun,Moist to Wet
+493,Candytuft (Iberis spp.),Moderate,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist
+494,Blue Star (Amsonia spp.),Moderate,"Prefer cooler, shaded areas",Shade Plants,Well-Drained
+495,Dianella (Dianella spp.),High,Cool to temperate climates,Full sun,Consistently Moist
+496,Foamflower (Tiarella cordifolia),Low,"Hot, dry climates",Partial Sun/Partial Shade Plants,Waterlogged
+497,Jacob's Ladder (Polemonium spp.),Low,Tolerates a range of temperatures,Full sun,Moist
+498,Lemon Balm (Melissa officinalis),Moderate,"Prefer cooler, shaded areas",Partial Sun/Partial Shade Plants,Well-Drained
+499,Sedum (Sedum spp.),High,Warm to hot climates,Full sun,Waterlogged
+500,Lady's Mantle (Alchemilla mollis), Low,Tolerates a range of temperatures,Partial Sun/Partial Shade Plants,Moist to Wet
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

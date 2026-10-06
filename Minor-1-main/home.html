@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to Your Plants</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #E6D0A8;
+            color: #333;
+        }
+
+        .container {
+            background-color: #F4F4F4;
+            padding: 20px;
+            margin: 20px auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+        }
+
+        h1 {
+            color: #378156;
+        }
+
+        p {
+            color: #555;
+        }
+
+        .taskbar {
+            background-color: #378156;
+            color: #fff;
+            width: 100%;
+            padding: 10px 0;
+        }
+
+        .container-taskbar {
+            max-width: 500px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+ 
+        }
+
+        .taskbar-settings {
+            cursor: pointer;
+	    align-items: left;
+        }
+
+        .taskbar-search {
+            flex: 1;
+        
+	    align-items: center;
+        }
+
+        .taskbar-profile {
+            cursor: pointer;
+	    align-items: right;
+        }
+
+        .options {
+            text-align: left;
+        }
+
+        .option-label {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .option-image {
+            width: 40px;
+            height: 40px;
+            margin-right: 10px;
+            border-radius: 50%;
+        }
+
+        .option-input {
+            margin-right: 10px;
+        }
+
+        #submit-button {
+            background-color: #378156;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="taskbar">
+        <div class="container-taskbar">
+            <div class="taskbar-settings" onclick="openSettings()">Settings</div>
+            <div class="taskbar-search">
+                <input type="text" placeholder="Search...">
+            </div>
+            <a href="profile.html">
+    <div class="taskbar-profile">
+        <img src="profile-icon.png" alt="Profile">
+    </div>
+</a>
+        </div>
+    </div>
+    <div class="container">
+        <h1>Welcome to Your Plants</h1>
+        <p>Choose your options:</p>
+
+        <form id="options-form">
+            <div class="options">
+                <label class="option-label">
+                    <img class="option-image" src="image1.jpg" alt="Option 1">
+                    <input type="checkbox" class="option-input" name="option" value="1">
+                    AloeVera
+                </label>
+                <label class="option-label">
+                    <img class="option-image" src="image2.jpg" alt="Option 2">
+                    <input type="checkbox" class="option-input" name="option" value="2">
+                    Lavender
+                </label>
+		<label class="option-label">
+                    <img class="option-image" src="image2.jpg" alt="Option 2">
+                    <input type="checkbox" class="option-input" name="option" value="2">
+                    Spider Plant
+                </label>
+		<label class="option-label">
+                    <img class="option-image" src="image2.jpg" alt="Option 2">
+                    <input type="checkbox" class="option-input" name="option" value="2">
+                    Basil
+                </label>
+		<label class="option-label">
+                    <img class="option-image" src="image2.jpg" alt="Option 2">
+                    <input type="checkbox" class="option-input" name="option" value="2">
+                    Peace Lily
+                </label>
+		<label class="option-label">
+                    <img class="option-image" src="image2.jpg" alt="Option 2">
+                    <input type="checkbox" class="option-input" name="option" value="2">
+                    Succulent
+                </label>
+		<label class="option-label">
+                    <img class="option-image" src="image2.jpg" alt="Option 2">
+                    <input type="checkbox" class="option-input" name="option" value="2">
+                    Rose
+                </label>
+		<label class="option-label">
+                    <img class="option-image" src="image2.jpg" alt="Option 2">
+                    <input type="checkbox" class="option-input" name="option" value="2">
+                    Porthos
+                </label>
+		<label class="option-label">
+                    <img class="option-image" src="image2.jpg" alt="Option 2">
+                    <input type="checkbox" class="option-input" name="option" value="2">
+                    Orchid
+                </label>
+		<label class="option-label">
+                    <img class="option-image" src="image2.jpg" alt="Option 2">
+                    <input type="checkbox" class="option-input" name="option" value="2">
+                    Fiddle Leaf Fig
+                </label>
+                <!-- Add similar labels for other options with images -->
+            </div>
+            <button type="button" id="submit-button">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        function openSettings() {
+            // Implement code to open the settings page
+            alert("Settings page will open.");
+        }
+
+        function openProfile() {
+            // Implement code to open the profile page
+            alert("Profile page will open.");
+        }
+
+        document.getElementById("submit-button").addEventListener("click", function() {
+            const form = document.getElementById("options-form");
+            const selectedOptions = [...form.elements["option"]].filter(option => option.checked).map(option => option.value);
+            const selectedOptionsString = selectedOptions.join(",");
+            window.location.href = "urplants.html?selectedOptions=" + selectedOptionsString;
+        });
+    </script>
+</body>
+</html>
